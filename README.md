@@ -1,7 +1,7 @@
 # Kazakhstan Constitution AI Assistant 📜
 
-![Streamlit App](img1.jpeg)
-![Example of how it work](img2.jpeg)
+![Streamlit App](img2.jpeg)
+![Example of how it work](img1.jpeg)
 ![Question](img3.jpeg)
 
 An AI-powered assistant for querying the Constitution of Kazakhstan and related legal documents, built with Streamlit and LangChain.
